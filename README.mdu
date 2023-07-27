@@ -1,4 +1,4 @@
-# wmardc
+ # wmardc
 <!DOCTYPE html>
 <html>
   <head>
@@ -25,7 +25,9 @@
     />
     <link rel="manifest" href="https://cdn.landr.com/images/site.webmanifest?v=dLn6e7bpqR" />
     <link rel="mask-icon" href="https://cdn.landr.com/images/safari-pinned-tab.svg?v=dLn6e7bpqR" color="#142739" />
-    <link rel="shortcut icon" href="https://cdn.landr.com/images/favicon.ico?v=dLn6e7bpqR" />
+    <link rel="shortcut ic
+n" href="https://cdn.landr.
+com/images/favicon.ico?v=dLn6e7bpqR" />
     <meta name="apple-mobile-web-app-title" content="LANDR" />
     <meta name="application-name" content="LANDR" />
     <meta name="msapplication-TileColor" content="#142739" />
